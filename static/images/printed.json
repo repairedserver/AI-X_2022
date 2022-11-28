@@ -1,0 +1,19 @@
+{
+	"scratched": {
+		"area": "6187",
+		"price": "494960"
+	},
+	"seperationed": {
+		"area": "180",
+		"price": "18000"
+	},
+	"crushed": {
+		"area": "0",
+		"price": "0"
+	},
+	"damaged": {
+		"area": "1957",
+		"price": "352260"
+	},
+	"total_price": "865220"
+}
